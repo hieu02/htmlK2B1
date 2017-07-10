@@ -1,0 +1,16 @@
+﻿@font-face {
+    font-family: jaxcos;
+    src: url(jaxcos.ttf);
+}
+body {
+    width: 100px;
+    height: 30px;
+}
+.formbox {
+    text-align: left;
+    width: 200px;
+    right: 50%;
+}
+.signuptext {
+    font-family: jaxcos;
+}
